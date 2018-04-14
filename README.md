@@ -1,7 +1,3 @@
-# auto-magic-music
-Download and fetch music from the web with meta data
-
-
 AutoMagicMusic
 ==============
 
@@ -9,7 +5,7 @@ AutoMagicMusic lets you download music from YouTube and automatically fills in I
 
 Usage
 ---------
-You'll need Spotify API keys and user name. youtube-dl, spotipy, and eyed3 are among some of the dependencies needed. [ffmpeg]([https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg) is required for converting audio files
+You'll need Spotify API keys and user name. youtube-dl, spotipy, and eyed3 are among some of the dependencies needed. [ffmpeg]([https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg) is required for converting audio files.
 
 To download a YouTube url:
 ```bash
